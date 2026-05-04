@@ -1,4 +1,24 @@
 #!/usr/bin/env bash
+
+# ------------------------------------------------------------------------------
+# Non-Commercial Software License (Summary)
+#
+# Copyright (c) 2026 Tom Ryter + AI assistance
+#
+# You may use, modify, and share this software for non-commercial purposes.
+#
+# Requirements:
+# - Attribution must be given to "Tom Ryter + AI assistance"
+# - This notice must remain intact
+#
+# Restrictions:
+# - No commercial use
+# - No selling or monetizing
+# - No offering as a hosted service (SaaS)
+#
+# Full license available in the LICENSE file in this repository.
+# ------------------------------------------------------------------------------
+
 set -euo pipefail
 
 CONF_DIR="/home/soulless/Wireguardconfs"
