@@ -1,3 +1,28 @@
+# mullvad-wg-rotate Quick Overview
+
+
+## 🚀 Overview
+This project demonstrates the setup and configuration of a secure VPN for private network communication and controlled remote access. It focuses on reliability, system-level networking, and practical deployment.
+
+**Core capabilities:**
+- Secure tunneling between systems
+- Configuration of VPN services and clients
+- Emphasis on privacy and data protection
+- Network-level control and routing
+- Designed for stability and repeatable setup
+
+---
+
+## ⚡ Quick Start
+
+```bash
+# clone
+git clone https://github.com/tom-ryter/mullvad-wg-rotate.git
+cd mullvad-wg-rotate
+
+# follow setup instructions
+# (see full documentation below)
+
 # mullvad-wg-rotate
 
 Randomized Mullvad WireGuard connection manager for NetworkManager.
